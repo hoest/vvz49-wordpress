@@ -252,6 +252,11 @@ div.skip-link {
   margin-top: 2em;
 }
 
+.inthepicture {
+  margin: 0px 20px 0px 10px;
+  text-align: center;
+}
+
 #sidebar .sidebar_footer a {
   color: #ffffff;
   text-decoration: underline;
