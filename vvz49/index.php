@@ -34,7 +34,7 @@
         <a class="url fn n" href="<?php echo get_author_link( false, $authordata->ID, $authordata->user_nicename ); ?>" title="<?php printf( __( 'View all posts by %s', 'vvz49' ), $authordata->display_name ); ?>"><?php the_author(); ?></a>
       </span>
       <span class="meta-sep"> | </span> -->
-      <span class="meta-prep meta-prep-entry-date"><?php _e('Gepuliceerd op ', 'vvz49'); ?></span>
+      <span class="meta-prep meta-prep-entry-date"><?php _e('Gepubliceerd op ', 'vvz49'); ?></span>
       <span class="entry-date">
         <abbr class="published" title="<?php the_time('Y-m-d\TH:i:sO') ?>"><?php the_time( get_option( 'date_format' ) ); ?></abbr>
       </span>
