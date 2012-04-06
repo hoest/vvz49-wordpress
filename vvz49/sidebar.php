@@ -51,6 +51,7 @@
     <p><strong>s.v. V.V.Z. '49</strong><br />Sportpark Zonnegloren<br />Eemweg 2a<br />3764 DG Soest<br />Kantine: 035-6018612<br /><a href="mailto:info@vvz49.nl">info@vvz49.nl</a></p>
   </div>
   <div class="inthepicture">
-    <a href="http://www.autosmeeing.nl/Home/winterbanden.html" target="_blank"><img src="/wp-content/themes/vvz49/images/autosmeeing_banner_vvz.jpg" /></a>
+    <!-- <a href="http://www.autosmeeing.nl/Home/winterbanden.html" target="_blank"><img src="/wp-content/themes/vvz49/images/autosmeeing_banner_vvz.jpg" /></a> -->
+    <img src="/wp-content/themes/vvz49/images/toernooi.jpg" />
   </div>
 </div>
