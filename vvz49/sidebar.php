@@ -30,10 +30,10 @@
 
   <div id="icon_banner">
     <a href="http://twitter.com/vvz49_soest/" target="_blank" title="Volg VVZ '49 op Twitter!">
-      <img src="/wp-content/themes/vvz49/images/twitter.gif" width="24" height="24" alt="Volg VVZ '49 op Twitter!">
+      <img src="/wp-content/themes/vvz49/images/twitter.gif" width="24" height="24" alt="Volg VVZ '49 op Twitter!" />
     </a>
     <a href="http://www.facebook.com/pages/Sportvereniging-VVZ-49/179781318718265" target="_blank" title="Vind ons leuk op Facebook!">
-      <img src="/wp-content/themes/vvz49/images/facebook.gif" width="24" height="24" alt="Vind ons leuk op Facebook!">
+      <img src="/wp-content/themes/vvz49/images/facebook.gif" width="24" height="24" alt="Vind ons leuk op Facebook!" />
     </a>
   </div>
 
@@ -52,6 +52,6 @@
   </div>
   <div class="inthepicture">
     <!-- <a href="http://www.autosmeeing.nl/Home/winterbanden.html" target="_blank"><img src="/wp-content/themes/vvz49/images/autosmeeing_banner_vvz.jpg" /></a> -->
-    <img src="/wp-content/themes/vvz49/images/toernooi.jpg" />
+    <!-- <img src="/wp-content/themes/vvz49/images/toernooi.jpg" alt="" /> -->
   </div>
 </div>
