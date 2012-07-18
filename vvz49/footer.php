@@ -18,6 +18,7 @@
           <div class="sponsoring">
             <a href="http://www.prontokeukenssoest.nl/" target="_blank"><img src="/wp-content/themes/vvz49/images/pronto-keukens-logo.jpg" width="202" height="50" /></a>
             <a href="http://www.prontowonen.nl/" target="_blank"><img src="/wp-content/themes/vvz49/images/pronto-wonen-logo.jpg" width="135" height="50" /></a>
+            <a href="http://www.intersportsoest.nl/" target="_blank"><img src="/wp-content/themes/vvz49/images/is-vandam.jpg" width="225" height="50" /></a>
           </div>
         </div>
       </div>
