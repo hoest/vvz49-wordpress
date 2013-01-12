@@ -338,3 +338,17 @@ div.skip-link {
 .ninja_annc_close {
   display: none;
 }
+
+.fairplay {
+  margin: 0px 25px 0px 15px;
+  text-align: center;
+  border: 1px solid #fff;
+  padding: 5px;
+}
+
+.fairplay  A {
+  font-size: 150%;
+  color: #fff;
+  text-decoration: underline;
+  line-height: 1.5em;
+}
