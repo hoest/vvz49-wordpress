@@ -26,6 +26,13 @@
     }
   ?>
 
+  <div class="fairplay">
+    <p>
+      <a href="http://www.vvz49.nl/informatie/fairplay-beleid/">FAIRPLAY BELEID</a><br />
+      <em>respectvol en sportief gedrag is de basis van ons voetbal</em>
+    </p>
+  </div>
+
   <?php wp_page_menu( 'menu_class=serviceMenu&include=22,37,154,156&sort_column=menu_order' ); ?>
 
   <div id="icon_banner">
@@ -49,13 +56,6 @@
 
   <div class="sidebar_footer">
     <p><strong>s.v. V.V.Z. '49</strong><br />Sportpark Zonnegloren<br />Eemweg 2a<br />3764 DG Soest<br />Kantine: 035-6018612<br /><a href="mailto:info@vvz49.nl">info@vvz49.nl</a></p>
-  </div>
-
-  <div class="fairplay">
-    <p>
-      <a href="http://www.vvz49.nl/informatie/fairplay-beleid/">FAIRPLAY BELEID</a><br />
-      <em>respectvol en sportief gedrag is de basis van ons voetbal</em>
-    </p>
   </div>
 
   <div class="inthepicture">
