@@ -339,14 +339,15 @@ div.skip-link {
   display: none;
 }
 
-.fairplay {
+.fairplay, .kunstgras {
   margin: 0 25px 25px 15px;
   text-align: center;
   border: 1px solid #fff;
   padding: 5px;
 }
 
-.fairplay  A {
+.fairplay A,
+.kunstgras A {
   font-size: 150%;
   color: #fff;
   text-decoration: underline;

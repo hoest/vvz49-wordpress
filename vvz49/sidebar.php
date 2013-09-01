@@ -33,6 +33,13 @@
     </p>
   </div>
 
+  <div class="kunstgras">
+    <p>
+      <a href="http://www.vvz49.nl/2013/08/11/spelregels-gebruik-kunstgras/">KUNSTGRAS REGELS</a><br />
+      <em>De 11 gedragsregels voor het kunstgrasveld</em>
+    </p>
+  </div>
+
   <?php wp_page_menu( 'menu_class=serviceMenu&include=22,37,154,156&sort_column=menu_order' ); ?>
 
   <div id="icon_banner">
