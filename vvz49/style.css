@@ -107,6 +107,7 @@ div.skip-link {
   width: 675px;
   margin-left: 275px;
   min-height: 550px;
+  position: relative;
 }
 
 #page div,
@@ -282,6 +283,7 @@ div.skip-link {
   font-style: italic;
   font-size: 90%;
   text-align: center;
+  clear:left;
 }
 
 .sitepad {
@@ -352,4 +354,23 @@ div.skip-link {
   color: #fff;
   text-decoration: underline;
   line-height: 1.5em;
+}
+
+.entry-utility {
+  float: right;
+}
+
+.ninja-forms-form-wrap {
+  position: absolute;
+  width: 80%;
+}
+
+hr.ninja-forms-field {
+  margin: 1em 0;
+  border-style: solid;
+}
+
+.ninja-forms-field-error {
+  color: #ff0000;
+  font-style: italic;
 }
