@@ -341,6 +341,12 @@ div.skip-link {
   display: none;
 }
 
+.poster {
+  margin: 0 25px 25px 15px;
+  padding: 5px;
+  text-align: center
+}
+
 .fairplay, .kunstgras {
   margin: 0 25px 25px 15px;
   text-align: center;

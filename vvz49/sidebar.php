@@ -26,6 +26,14 @@
     }
   ?>
 
+  <div class="poster">
+    <a target="_blank" href="/wp-content/themes/vvz49/pdf/kunstgras.pdf"><img src="/wp-content/themes/vvz49/images/kunstgras.png" /></a>
+  </div>
+
+  <div class="poster">
+    <a target="_blank" href="/wp-content/themes/vvz49/pdf/walk-of-fame.pdf"><img src="/wp-content/themes/vvz49/images/walk-of-fame.png" /></a>
+  </div>
+
   <div class="fairplay">
     <p>
       <a href="http://www.vvz49.nl/informatie/fairplay-beleid/">FAIRPLAY BELEID</a><br />
