@@ -221,6 +221,7 @@ div.skip-link {
 
 #sidebar li:hover>ul.children {
   display: block;
+  z-index: 999;
 }
 
 #sidebar ul li a {
