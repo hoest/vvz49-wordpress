@@ -381,3 +381,23 @@ hr.ninja-forms-field {
   color: #ff0000;
   font-style: italic;
 }
+
+ul.lcp_catlist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.lcp_catlist li {
+  margin-bottom: 1em;
+  float: left;
+
+}
+
+ul.lcp_catlist li strong {
+  font-weight: normal;
+}
+
+ul.lcp_catlist li>a:first {
+  font-weight: bold;
+}
